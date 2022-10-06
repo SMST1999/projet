@@ -1,0 +1,17 @@
+table{
+	margin: auto;
+}
+h1{
+	color: red;
+	text-align: center;
+}
+body{
+	background-color: yellow;
+}
+p{
+	text-align: center;
+	font-style: italic;
+}
+pre{
+	text-align: center;
+}
